@@ -79,27 +79,20 @@
         <extent>00:31:08</extent>
         <form valueURI="http://vocab.getty.edu/aat/300028633">sound recordings</form><!-- Is this an accurate term to use across all recordings?-->
     </physicalDescription>
+    <note>Session begins at 2:30 PM.</note>
     <!-- Please review blanket subject headings below and determine if appropriate across all records -->
-    <!-- Do we want a note recognizing the CLIR grant? -->
-    <subject valueURI="http://id.loc.gov/authorities/subjects/sh85044893">
-        <topic>Espionage</topic>
-    </subject>
+    <!-- Do we want a note recognizing the CLIR grant? (Decided not at the item-level, collection only) -->
     <subject valueURI="http://id.loc.gov/authorities/subjects/sh85075833">
         <topic>Legislative hearings</topic>
     </subject>
     <subject valueURI="http://id.loc.gov/authorities/subjects/sh85082515">
         <topic>Army-McCarthy Controversy, 1954</topic>
     </subject>
-    <subject valueURI="http://id.loc.gov/authorities/names/no2009028959">
-        <name>
-            <namePart>Stevens, Robert T. (Robert Ten Broeck), 1899-1983</namePart>
-        </name>
-    </subject>
     <!-- Do we need a note about the physical condition of the recordings? My understanding is that this is recorded somewhere? -->
     <typeOfResource>sound recording-nonmusical</typeOfResource>
     <relatedItem displayLabel="Collection" type="host">
         <titleInfo>
-            <title>Army-McCarthy Hearings, 1954</title>
+            <title>Recordings of the Army-McCarthy Hearings, 1954</title>
         </titleInfo>
     </relatedItem>
     <relatedItem displayLabel="Collection" type="host">
@@ -114,5 +107,6 @@
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
     </location>
+    <!-- Check with Holly to make sure CBS radio status does not affect this statement -->
     <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
