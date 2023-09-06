@@ -29,6 +29,48 @@
             <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
         </role>
     </name>
+    <name valueURI="http://id.loc.gov/authorities/names/n86099107">
+        <namePart>Mundt, Karl E. (Karl Earl), 1900-1974</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+        </role>
+    </name>
+    <name valueURI="http://id.loc.gov/authorities/names/n81033565">
+        <namePart>Cohn, Roy M.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+        </role>
+    </name>
+    <name valueURI="http://id.loc.gov/authorities/names/n78063623">
+        <namePart>Jenkins, Ray H. (Ray Howard), 1897-1980</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+        </role>
+    </name>
+    <name valueURI="http://id.loc.gov/authorities/names/n79043290">
+        <namePart>McCarthy, Joseph, 1908-1957</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+        </role>
+    </name>
+    <name valueURI="http://id.loc.gov/authorities/names/n87870874">
+        <namePart>McClellan, John L. (John Little), 1896-1977</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+        </role>
+    </name>
+    <name valueURI="http://id.loc.gov/authorities/names/n80002587">
+        <namePart>Jackson, Henry M. (Henry Martin), 1912-1983</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+        </role>
+    </name>
+    <name valueURI="http://id.loc.gov/authorities/names/n87837464">
+        <namePart>Symington, Stuart, 1901-1988</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+        </role>
+    </name>
     <originInfo>
         <dateCreated>April 22, 1954</dateCreated><!-- I noticed there is a "Time Incdicated" column. Do we need to retain this in the metadata? -->
         <dateCreated encoding="edtf">1954-04-22</dateCreated>
