@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">EKAV0132_01</identifier>
+   <titleInfo>
+      <title>Testimony of Hon. Robert T. Stevens (Secretary, Dept. of the Army), part 17</title>
+   </titleInfo>
+   <name valueURI="http://id.loc.gov/authorities/names/no2009028959">
+      <namePart>Stevens, Robert T. (Robert Ten Broeck), 1899-1983</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n79043290">
+      <namePart>McCarthy, Joseph, 1908-1957</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n85183856">
+      <namePart>Welch, Joseph N., 1890-1960</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n86099107">
+      <namePart>Mundt, Karl E. (Karl Earl), 1900-1974</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/nr92042890">
+      <namePart>Potter, Charles E. (Charles Edward), 1916-1979</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n80002587">
+      <namePart>Jackson, Henry M. (Henry Martin), 1912-1983</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n87837464">
+      <namePart>Symington, Stuart, 1901-1988</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/no98079176">
+      <namePart>Dworshak, Henry C. (Henry Clarence), 1894-1962</namePart>
+      <role>
+         <roleTerm valueURI="http://id.loc.gov/vocabulary/relators/spk">Speaker</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>April 27, 1954</dateCreated>
+      <dateCreated encoding="edtf">1954-04-27</dateCreated>
+   </originInfo>
+   <note>Session begins at 2:40 PM.</note>
+   <physicalDescription>
+      <form valueURI="http://vocab.getty.edu/aat/300028633">sound recordings</form>
+      <extent>0:32:21</extent>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85075833">
+      <topic>Legislative hearings</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85082515">
+      <topic>Army-McCarthy Controversy, 1954</topic>
+   </subject>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Recordings of the Army-McCarthy Hearings, 1954</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Ray H. Jenkins Papers</title>
+      </titleInfo>
+      <identifier>MPA-0131</identifier>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
